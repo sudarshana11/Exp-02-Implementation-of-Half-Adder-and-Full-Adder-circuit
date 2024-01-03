@@ -77,8 +77,11 @@ endmodule
 RTL Realization
 image
 
-# TIMING DIAGRAM
+# RTL realization;
 ![image](https://github.com/sudarshana11/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/155507129/03ea2b9c-05b6-4f09-a4a0-0af5c6e241ad)
+
+# timing diagram;
+![image](https://github.com/sudarshana11/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/155507129/3a95e5c2-aec8-41a2-8909-4f003c114ba2)
 
 
 # TRUTH TABLE
